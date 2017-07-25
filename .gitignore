@@ -1,0 +1,8 @@
+# misc
+.DS_Store
+npm-debug.log*
+/new-space.iml
+/src/main/webapp/front-end/node_modules/
+/src/main/webapp/front-end/dist/
+/.idea/
+/target/
